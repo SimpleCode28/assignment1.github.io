@@ -1,0 +1,6 @@
+member:16301055(于佳莉）
+
+technology：
+1.navigation bottom
+2.fragment
+3.intent
